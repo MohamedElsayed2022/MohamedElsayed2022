@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Mohammed Hany</h1>
+<h1 align="center">Hi 👋, I'm Mohammed ElSayed</h1>
 <h3 align="center">A passionate full-stack developer from Egypt</h3>
 
 - 🔭 I’m currently working on *Web Development*
 - 🌱 I’m currently learning *Angular*
-- 💬 Ask me about *.NET Core, Spring Boot, Angular, Git, Docker, Python, and SQL*
-- 📫 How to reach me **mohammedhanymaher990@gmail.com*
+- 💬 Ask me about * Spring Boot, React, Git, Docker, Python, and SQL*
+- 📫 How to reach me **mohamedalsayedabdulah@gmail.com*
 
 ---
 
